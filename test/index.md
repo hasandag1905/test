@@ -1,4 +1,6 @@
 # Master1
 Burada bir açıklama gerçekleşmektedir..
 
-hasan ++
+hasan ++ oğuz ++
+
+255
